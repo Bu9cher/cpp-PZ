@@ -1,0 +1,4 @@
+*
+!*/               # allow folders
+!**/main.cpp      # allow only main.cpp
+!.gitignore
