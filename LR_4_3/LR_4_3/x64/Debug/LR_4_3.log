@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\Buech\Documents\projects\Lb4_3\Lb4_3\Lb4_3\main.cpp(9,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Buech\Documents\projects\Lb4_3\Lb4_3\Lb4_3\main.cpp(10,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  LR_4_3.vcxproj -> C:\Users\Buech\Documents\projects\LR_4_3\x64\Debug\LR_4_3.exe
